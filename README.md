@@ -65,9 +65,9 @@ Smart-Irrigation-System/
 
 ## Dashboard / Hardware Preview
 
-| PCB Preview 1 | PCB Preview 2 |
+| PCB Preview | PCB 3D Preview |
 |---|---|
-| ![PCB Preview 1](assets/images/pcb_preview_1.png) | ![PCB Preview 2](assets/images/pcb_preview_2.png) |
+| ![PCB Preview ](assets/images/pcb_preview_1.png) | ![PCB 3D Preview](assets/images/pcb_preview_2.png) |
 
 ## Getting Started
 
